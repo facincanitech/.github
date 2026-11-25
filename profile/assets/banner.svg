@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='860' height='190' viewBox='0 0 860 190'>
+  <rect width='860' height='190' rx='22' fill='#0b0f13'/>
+  <g opacity='.9'>
+    <rect x='600' y='40' width='54' height='40' rx='10' fill='none' stroke='#a78bfa' stroke-width='4'/>
+    <rect x='670' y='70' width='54' height='40' rx='10' fill='none' stroke='#4fc3f7' stroke-width='4'/>
+    <rect x='740' y='40' width='54' height='40' rx='10' fill='none' stroke='#ff9e57' stroke-width='4'/>
+    <rect x='635' y='110' width='54' height='40' rx='10' fill='none' stroke='#7ee08a' stroke-width='4'/>
+    <rect x='705' y='130' width='54' height='40' rx='10' fill='none' stroke='#4dd8c4' stroke-width='4'/>
+  </g>
+  <text x='44' y='92' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='46' font-weight='800' fill='#ffffff'>FacincaniTech</text>
+  <text x='46' y='130' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='18' fill='#b8c2cc'>Apps, jogos e ferramentas feitos em São José do Rio Preto, SP</text>
+</svg>
